@@ -86,9 +86,9 @@ WhatsApi.prototype.defaultConfig = {
 	server         : 's.whatsapp.net',
 	gserver        : 'g.us',
 	port           : 443,
-	device_type    : 'iPhone',
-	app_version    : '2.11.16',
-	ua             : 'WhatsApp/2.11.16 iPhone_OS/8.3 Device/iPhone_6',
+	device_type    : 'S40',
+	app_version    : '2.13.21',
+	ua             : 'WhatsApp/2.13.21 S40Version/14.26 Device/Nokia302',
 	challenge_file : path.join(__dirname, 'challenge'),
 	imageTool      : ImageTools.JIMP,
 	sendReceipt    : 2
